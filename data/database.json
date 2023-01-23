@@ -74,6 +74,17 @@
       "balance": 75369,
       "createdAt": "2020-02-11T21:26:46.510Z",
       "modifiedAt": "2020-05-21T15:15:33.944Z"
+    },
+    {
+      "id": "w6uLrZxuw",
+      "uuid": "7e51d3b8-fa64-4587-87d4-bb40e7104f77",
+      "firstName": "1",
+      "lastName": "1",
+      "username": "1",
+      "password": "$2a$10$FsnYCJBOmnPOtBdDi/oXGuTBKrLTTJ7AaGTX39miM2TNcXRsZAX..",
+      "balance": 0,
+      "createdAt": "2023-01-23T05:50:10.001Z",
+      "modifiedAt": "2023-01-23T05:50:10.001Z"
     }
   ],
   "contacts": [
@@ -253,6 +264,17 @@
       "isDeleted": false,
       "createdAt": "2019-09-30T14:20:07.043Z",
       "modifiedAt": "2020-05-21T22:40:28.910Z"
+    },
+    {
+      "id": "5GnW-GToC",
+      "uuid": "05786d0b-f140-4d44-9e1e-34b01a23d273",
+      "userId": "w6uLrZxuw",
+      "bankName": "123456",
+      "accountNumber": "123456789",
+      "routingNumber": "123456789",
+      "isDeleted": false,
+      "createdAt": "2023-01-23T05:50:43.449Z",
+      "modifiedAt": "2023-01-23T05:50:43.449Z"
     }
   ],
   "transactions": [
